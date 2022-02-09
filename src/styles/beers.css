@@ -1,0 +1,10 @@
+.beers{
+    height: auto;
+    margin: 5% 10%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 10px 10px;
+    /* flex-direction: column;  */
+    /* border: blue 15px solid; */
+    
+}
