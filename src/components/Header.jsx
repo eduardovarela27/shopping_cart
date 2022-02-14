@@ -10,7 +10,7 @@ export const Header = () => {
                 </div>
                 <button>
                     <i className="fas fa-shopping-cart"></i>
-                    <span> Shop</span>
+                    <span> Cart</span>
                 </button>
             </div>
             <hr />
