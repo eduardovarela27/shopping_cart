@@ -15,6 +15,6 @@ export const CallApi = async () => {
         return dates;
 
     } else {
-        console.log('Error');
+        console.log('Error');//error
     }
 };
